@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite this software when using the methods or figure scripts."
+title: "Osteosarcoma context framework: core methods and main-figure reproduction"
+type: software
+authors:
+  - name: "Osteosarcoma framework contributors"
+version: 1.0.0
+date-released: 2026-10-02
+license: MIT
+keywords:
+  - osteosarcoma
+  - pure-state projection
+  - partial transport
+  - experimental context
+  - spatial transcriptomics
